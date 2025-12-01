@@ -2,3 +2,4 @@ ajout de modif
 modification pour le pull
 Ajout de la fonctionnalité 1
 Ligne modifiée par A.
+Ligne modifiée par B.
